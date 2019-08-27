@@ -19,4 +19,15 @@
 
 웹 페이지 이미지
 --
-* 
+* 디폴트 페이지인 Home 페이지 
+![HomeImage](https://github.com/dringkbar/bulletinboard/blob/master/Readme_Image/HomeImage.PNG)
+
+* 게시글 업로드
+![PostUploadImage](https://github.com/dringkbar/bulletinboard/blob/master/Readme_Image/UploadImage.PNG)
+![Upload successful](https://github.com/dringkbar/bulletinboard/blob/master/Readme_Image/UploadImage2.PNG)
+
+* 게시글 조회
+![LookUp Post](https://github.com/dringkbar/bulletinboard/blob/master/Readme_Image/LookupPost.PNG)
+
+* 로그인 페이지 
+![LoginFormImage](https://github.com/dringkbar/bulletinboard/blob/master/Readme_Image/LoginForm_Image.PNG)
